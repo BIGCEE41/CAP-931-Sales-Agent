@@ -53,7 +53,7 @@ CAP-931-Sales-Agent/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/CAP-931-Sales-Agent.git
+git clone https://github.com/BIGCEE41/CAP-931-Sales-Agent.git
 cd CAP-931-Sales-Agent
 
 # 2. Create and activate a virtual environment
